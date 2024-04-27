@@ -2,6 +2,7 @@
 dist/*
 _site/
 .cache
+.DS_Store
 
 ## Node.js
 lib-cov
