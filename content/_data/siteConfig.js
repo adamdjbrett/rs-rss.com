@@ -1,14 +1,14 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Multiplicity",
-  description: "Eleventy-based RSS aggregator template",
+  title: "Orange 76",
+  description: "A public RSS reader for Religious Studies blogs",
   author: "Multiple Authors",
-  url: "https://eleventy-m10y.lkmt.us/",
+  url: "https://www.000000076.xyz",
   github: {
-    project: "https://github.com/lwojcik/eleventy-template-m10y",
+    project: "https://github.com/adamdjbrett/orange76xyz",
   },
-  userAgent: "m10y-https://eleventy-m10y.lkmt.us",
+  userAgent: "https://www.000000076.xyz",
   language: "en",
   generator: {
     name: "Eleventy",

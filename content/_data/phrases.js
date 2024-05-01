@@ -10,7 +10,7 @@ module.exports = {
     sites: "Sites",
     about: "About",
     rss: "RSS",
-    toggleTheme: "Toggle theme",
+    toggleTheme: "☀︎/☾",
   },
   skip_to_main_content: "Skip to main content",
 };
