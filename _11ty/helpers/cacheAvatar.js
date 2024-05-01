@@ -9,7 +9,7 @@ const siteConfig = require("../../content/_data/siteConfig");
 
 const DIST_PATH = "_site";
 const AVATAR_DIR = path.join("images", "avatars");
-const DEFAULT_AVATAR_FILE = "default_avatar.jpg";
+const DEFAULT_AVATAR_FILE = "default_avatar.png";
 const DEFAULT_AVATAR_PATH = path.join("/", "images", DEFAULT_AVATAR_FILE);
 
 const FILE_EXTENSIONS = {
