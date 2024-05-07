@@ -11,8 +11,8 @@ jobs:
       - name: Deploy site
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
-          platform: vercel
-          vercel_deploy_hook_url: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+          platform: netlify
+          vercel_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
           always_deploy: true
           # Using Netlify? Configure this action as follows:
           # platform: netlify
