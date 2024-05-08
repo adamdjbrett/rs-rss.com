@@ -8,7 +8,6 @@ _site/
 lib-cov
 *.seed
 *.log
-*.csv
 *.dat
 *.out
 *.pid
