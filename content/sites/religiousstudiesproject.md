@@ -1,5 +1,5 @@
 ---
-Name: Religious Studies Project
+Name: "Religious Studies Project"
 URL: https://www.religiousstudiesproject.com/
 avatar: /images/sites/religiousstudiesproject.png
 feed: https://www.religiousstudiesproject.com/feed/

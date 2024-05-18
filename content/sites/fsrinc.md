@@ -1,5 +1,5 @@
 ---
-Name: Feminists Studies in Religion
+Name: "Feminists Studies in Religion"
 URL: https://www.fsrinc.org/blog/
 avatar: /images/sites/fsrinc.png
 feed: https://www.fsrinc.org/blog/feed/

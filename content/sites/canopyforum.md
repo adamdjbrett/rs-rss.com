@@ -1,5 +1,5 @@
 ---
-Name: Canopy Forum
+Name: "Canopy Forum"
 URL: https://canopyforum.org/
 avatar: /images/sites/canopyforum.jpg
 feed: https://canopyforum.org/feed/

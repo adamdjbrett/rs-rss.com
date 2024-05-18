@@ -1,5 +1,5 @@
 ---
-Name: Original Free Nations
+Name: "Original Free Nations"
 URL: https://originalfreenations.com/
 avatar: /images/sites/originalfreenations.png
 feed: https://originalfreenations.com/feed/

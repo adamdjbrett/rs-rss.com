@@ -1,5 +1,5 @@
 ---
-Name: Religion Matters
+Name: "Religion Matters"
 URL: https://religionmatters.org/blog-2/
 avatar: /images/sites/religionmatters.png
 feed: https://religionmatters.org/blog-2/feed/

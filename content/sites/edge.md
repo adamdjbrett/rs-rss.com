@@ -1,5 +1,5 @@
 ---
-Name: Culture on Edge
+Name: "Culture on Edge"
 URL: https://edge.ua.edu/identity/
 avatar: /images/sites/edge.jpg
 feed: https://edge.ua.edu/feed/

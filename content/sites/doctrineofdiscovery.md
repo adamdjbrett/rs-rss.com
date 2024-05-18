@@ -1,5 +1,5 @@
 ---
-Name: Doctrine of Discovery
+Name: "Doctrine of Discovery"
 URL: https://doctrineofdiscovery.org/
 avatar: /images/sites/doctrineofdiscovery.png
 feed: https://doctrineofdiscovery.org/feed.xml

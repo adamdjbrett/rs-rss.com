@@ -1,5 +1,5 @@
 ---
-Name: Political Theology
+Name: "Political Theology"
 URL: https://politicaltheology.com/
 avatar: /images/sites/politicaltheology.png
 feed: https://politicaltheology.com/feed/

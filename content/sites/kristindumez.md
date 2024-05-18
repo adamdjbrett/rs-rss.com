@@ -1,5 +1,5 @@
 ---
-Name: Du Mez CONNECTIONS
+Name: "Du Mez CONNECTIONS"
 URL: https://kristindumez.substack.com/
 avatar: /images/sites/affecognitive.jpg
 feed: https://kristindumez.substack.com/feed

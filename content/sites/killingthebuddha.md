@@ -1,5 +1,5 @@
 ---
-Name: Killing the Buddha
+Name: "Killing the Buddha"
 URL: https://killingthebuddha.com/
 avatar: /images/sites/killingthebuddha.svg
 feed: https://killingthebuddha.com/feed/

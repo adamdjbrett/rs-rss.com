@@ -1,5 +1,5 @@
 ---
-Name: Image Journal
+Name: "Image Journal"
 URL: https://imagejournal.org/
 avatar: /images/sites/image.png
 feed: https://imagejournal.org/feed/

@@ -1,5 +1,5 @@
 ---
-Name: The Revealer
+Name: "The Revealer"
 URL: https://therevealer.org/
 avatar: /images/sites/the-revealer.png
 feed: https://therevealer.org/feed/

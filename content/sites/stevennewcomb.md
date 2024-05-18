@@ -1,5 +1,5 @@
 ---
-Name: The Domination Chronicles
+Name: "The Domination Chronicles"
 URL: https://stevennewcomb.substack.com/
 avatar: /images/sites/stevennewcomb.jpg
 feed: https://stevennewcomb.substack.com/feed/

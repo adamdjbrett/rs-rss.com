@@ -1,5 +1,5 @@
 ---
-Name: Indigenous Values Initiative
+Name: "Indigenous Values Initiative"
 URL: https://indigenousvalues.org/
 avatar: /images/sites/indigenousvalues.png
 feed: https://indigenousvalues.org/feed/

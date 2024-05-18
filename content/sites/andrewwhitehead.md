@@ -1,5 +1,5 @@
 ---
-Name: Andrew Whitehead
+Name: "Andrew Whitehead"
 URL: https://andrewwhitehead.substack.com/
 avatar: /images/sites/andrewwhitehead.jpg
 feed: https://andrewwhitehead.substack.com/feed/

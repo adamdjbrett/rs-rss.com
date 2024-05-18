@@ -1,5 +1,5 @@
 ---
-Name: Studying Religion in Culture - UA
+Name: "Studying Religion in Culture - UA"
 URL: https://religion.ua.edu/blog/
 avatar: /images/sites/religion-ua.png
 feed: https://religion.ua.edu/blog/feed/

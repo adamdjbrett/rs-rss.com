@@ -1,5 +1,5 @@
 ---
-Name: Religion Race and Democracy Lab, UVA
+Name: "Religion Race and Democracy Lab, UVA"
 URL: https://religionlab.virginia.edu/
 avatar: /images/sites/religionlab.png
 feed: https://religionlab.virginia.edu/feed/

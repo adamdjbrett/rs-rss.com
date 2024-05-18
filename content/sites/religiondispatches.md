@@ -1,5 +1,5 @@
 ---
-Name: Religion Dispatches
+Name: "Religion Dispatches"
 URL: https://religiondispatches.org/
 avatar: /images/sites/religiondispatches.jpg
 feed: https://religiondispatches.org/feed/

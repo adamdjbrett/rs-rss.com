@@ -1,5 +1,5 @@
 ---
-Name: Craig Martin, Religion Professor
+Name: "Craig Martin, Religion Professor"
 URL: https://craigmartinreligion.wordpress.com
 avatar: /images/sites/craigmartinreligion.jpg
 feed: https://craigmartinreligion.wordpress.com/feed/

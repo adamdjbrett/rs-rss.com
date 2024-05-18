@@ -1,5 +1,5 @@
 ---
-Name: Religious Studies News
+Name: "Religious Studies News"
 URL: https://rsn.aarweb.org/
 avatar: /images/sites/rsn.png
 feed: https://rsn.aarweb.org/rss.xml

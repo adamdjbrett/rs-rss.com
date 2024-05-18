@@ -1,5 +1,5 @@
 ---
-Name: Jewish Philosophy Place
+Name: "Jewish Philosophy Place"
 URL: https://jewishphilosophyplace.com/
 avatar: /images/sites/jewishphilosophyplace.png
 feed: https://jewishphilosophyplace.com/

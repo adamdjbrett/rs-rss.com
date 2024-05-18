@@ -1,5 +1,5 @@
 ---
-Name: Bible For Normal People Blog
+Name: "Bible For Normal People Blog"
 URL: https://thebiblefornormalpeople.com/blog/
 avatar: /images/sites/thebiblefornormalpeople.png
 feed: https://thebiblefornormalpeople.com/feed/

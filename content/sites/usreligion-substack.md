@@ -1,5 +1,5 @@
 ---
-Name: Religion in United States History
+Name: "Religion in United States History"
 URL: https://usreligion.substack.com/
 avatar: /images/sites/religioninunitedstateshistory.jpg
 feed: https://usreligion.substack.com/feed/
