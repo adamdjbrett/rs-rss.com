@@ -1,5 +1,5 @@
 # Religious Stuides RSS Aggregator [RS-RSS.com](https://rs-rss.com
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58a6c39a-f478-4a62-813a-bae8dad5ea39/deploy-status)](https://app.netlify.com/sites/orange76xyz/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58a6c39a-f478-4a62-813a-bae8dad5ea39/deploy-status)](https://app.netlify.com/sites/orange76xyz/deploys) [![Update site](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml/badge.svg)](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml)
 
 ## Multiplicity - RSS Aggregator Starter Based On Eleventy
 
