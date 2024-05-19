@@ -1,14 +1,14 @@
 const packageJson = require("../../package.json");
 
 module.exports = {
-  title: "Orange 76",
+  title: "Religious Studies Blogs",
   description: "A public RSS reader for Religious Studies blogs",
   author: "Multiple Authors",
-  url: "https://www.000000076.xyz",
+  url: "https://rs-rss.com/",
   github: {
-    project: "https://github.com/adamdjbrett/orange76xyz",
+    project: "https://github.com/adamdjbrett/rs-rss.com",
   },
-  userAgent: "https://www.000000076.xyz",
+  userAgent: "https://rs-rss.com/",
   language: "en",
   generator: {
     name: "Eleventy",
