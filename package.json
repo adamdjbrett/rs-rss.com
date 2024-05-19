@@ -3,6 +3,7 @@
   "version": "1.3.6",
   "private": true,
   "scripts": {
+    "shorten": "netlify-shortener",
     "prebuild": "npm run clean",
     "build:eleventy": "npx eleventy --quiet",
     "build": "npm-run-all build:*",
