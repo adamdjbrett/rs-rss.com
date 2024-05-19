@@ -1,6 +1,6 @@
 ---
 name: State of Formation
 url: https://stateofformation.org/
-avatar: /images/stateofformation.ico
+avatar: /images/sites/stateofformation.ico
 feed: https://stateofformation.org/feed/
 ---

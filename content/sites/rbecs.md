@@ -1,6 +1,6 @@
 ---
 name: Reviews of Biblical and Early Christian Studies
 url: https://rbecs.org/
-avatar: /images/rbecs.jpg
+avatar: /images/sites/rbecs.jpg
 feed: https://rbecs.org/feed/
 ---

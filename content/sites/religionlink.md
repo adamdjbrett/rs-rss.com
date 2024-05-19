@@ -1,6 +1,6 @@
 ---
 name: Religion Link
 url: https://religionlink.com/
-avatar: /images/religionlink.jpg
+avatar: /images/sites/religionlink.jpg
 feed: https://religionlink.com/feed/
 ---

@@ -1,6 +1,6 @@
 ---
 name: Reading Religion
 url: https://readingreligion.org/
-avatar: /images/readingreligion.png
+avatar: /images/sites/readingreligion.png
 feed: https://readingreligion.org/feed/
 ---
