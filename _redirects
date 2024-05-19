@@ -1,5 +1,7 @@
 # short urls
+/podcast/      https://podcasts.rs-rss.com
 /podcasts/      https://podcasts.rs-rss.com
+
 
 # fallback
 /*          /about/
