@@ -2,7 +2,7 @@ name: Update site
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *" # Every day at 2am. Modify this as you see fit
+    - cron: "0 6,16 * * *" # At minute 0 past hour 6 and 16.
 
 jobs:
   DeploySite:
