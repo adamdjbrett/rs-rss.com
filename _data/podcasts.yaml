@@ -1,123 +1,14 @@
----
+--- 
 
+    
+-
+
+    
+-
+
+    
+-
 
 -
-    name: Data > Dogma
-    url: https://podcasts.apple.com/us/podcast/data-over-dogma/id1681418502?ign-itscg=30200&ign-itsct=podcast_box_link
-    avatar: /images/podcasts/data-over-dogma.jpg
-    feed: https://feeds.megaphone.fm/ARML8571494714
-    
--
-    name: Feminists Talk Religion
-    url: https://www.buzzsprout.com/880843
-    avatar: /images/podcasts/feminists-talk-religion.jpg
-    feed: https://feeds.buzzsprout.com/880843.rss
-    
--
-    name: Home Brewed Christianity
-    url: https://trippfuller.com/
-    avatar: /images/podcasts/hbx.jpg
-    feed: https://trippfuller.com/category/podcast/feed/
-    
--
-    name: Keeping it 101
-    url: https://keepingit101.com/
-    avatar: /images/podcasts/keepingit101.jpg
-    feed: https://feeds.buzzsprout.com/810974.rss
-    
--
-    name: Madang Podcast
-    url: https://www.christiancentury.org/podcast/madang
-    avatar: /images/podcasts/madang.jpg
-    feed: https://anchor.fm/s/4ead88d0/podcast/rss
-    
--
-    name: Mapping the Doctrine of Discovery
-    url: https://podcast.doctrineofdiscovery.org/
-    avatar: /images/podcasts/mapping-doctrine-of-discovery.png
-    feed: https://podcast.doctrineofdiscovery.org/feed.xml
-    
--
-    name: Mark Goodacre
-    url: https://podacre.blogspot.com/
-    avatar: /images/podcasts/podacre.png
-    feed: https://feeds2.feedburner.com/NTPod
-    
--
-    name: Monster in the Mirror: Christian Nationalism’s Gothic Genesis
-    url: https://podcasts.apple.com/us/podcast/monster-in-the-mirror/id1654399705?ign-itscg=30200&ign-itsct=podcast_box_link
-    avatar: /images/podcasts/monster-in-the-mirror.jpg
-    feed: https://feeds.megaphone.fm/SWAJ1031356531
-    
--
-    name: New Books in Religion
-    url: https://newbooksnetwork.com/category/religion-faith/religion
-    avatar: /images/podcasts/nbn-religion.png
-    feed: https://feeds.megaphone.fm/LIT9789987066
-    
--
-    name: New Testament Review
-    url: https://soundcloud.com/user-829560134?utm_source=listennotes.com&utm_campaign=Listen+Notes&utm_medium=website
-    avatar: /images/podcasts/ntreview.jpg
-    feed: https://feeds.soundcloud.com/users/soundcloud:users:439505514/sounds.rss
-    
--
-    name: 'On God''s Campus'
-    url: https://www.axismundi.us/on-gods-campus/
-    avatar: /images/podcasts/on-gods-campus.png
-    feed: https://feeds.redcircle.com/072fa3d8-8cef-44c5-94d6-4f3b18a1ac34
-    
--
-    name: Pure White
-    url: https://www.axismundi.us/pure-white/
-    avatar: /images/podcasts/pure-white.jpg
-    feed: https://feeds.redcircle.com/7ecd7912-5927-4aa2-a2af-6a50982114d2
-    
--
-    name: Religion for Breakfast
-    url: https://www.youtube.com/@ReligionForBreakfast
-    avatar: /images/podcasts/rfb.jpg
-    feed: https://www.youtube.com/feeds/videos.xml?channel_id=UCct9aR7HC79Cv2g-9oDOTLw
-    
--
-    name: Religious Studies Podcast
-    url: https://thereligiousstudiespodcast.substack.com/
-    avatar: /images/podcasts/the-religious-studies-podcast.jpg
-    feed: https://media.zencast.fm/the-religious-studies-podcast/rss
-    
--
-    name: Religious Studies Project
-    url: https://www.religiousstudiesproject.com/
-    avatar: /images/podcasts/religiousstudiesproject.png
-    feed: https://www.religiousstudiesproject.com/feed/podcast
-    
--
-    name: Sacred and Profane Podcast
-    url: https://religionlab.virginia.edu/season/season-3/
-    avatar: /images/podcasts/sacred-profane.jpg
-    feed: https://feeds.blubrry.com/feeds/sacred_profane.xml
-    
--
-    name: Straight White American Jesus
-    url: https://www.axismundi.us/straight-white-american-jesus/
-    avatar: /images/podcasts/swaj.jpg
-    feed: https://feeds.megaphone.fm/PPY9950636314
-    
--
-    name: Study Religion Podcast
-    url: https://religion.ua.edu/about/podcasts/
-    avatar: /images/podcasts/religion-ua.png
-    feed: https://feeds.soundcloud.com/users/soundcloud:users:292303945/sounds.rss
-    
--
-    name: The Revealer Podcast
-    url: https://therevealer.org/podcasts/
-    avatar: /images/podcasts/r.png
-    feed: https://storage.bhs.cloud.ovh.net/v1/AUTH_624aabcecfc6462c9bf4d7a8820f9997/22042/feeds/4AN8E.xml?temp_url_sig=80f5d9ebae0c7d905f34fd7c48d8dc47a2ebe07b&temp_url_expires=2029587823&inline
-    
--
-    name: Weird Religion
-    url: https://www.weirdreligion.com/
-    avatar: /images/podcasts/weird-religion.jpg
-    feed: https://www.weirdreligion.com/seasonone?format=rss
+
     
