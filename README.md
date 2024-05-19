@@ -1,4 +1,7 @@
-# Multiplicity - RSS Aggregator Starter Based On Eleventy
+# Religious Stuides RSS Aggregator [RS-RSS.com](https://rs-rss.com
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58a6c39a-f478-4a62-813a-bae8dad5ea39/deploy-status)](https://app.netlify.com/sites/orange76xyz/deploys)
+
+## Multiplicity - RSS Aggregator Starter Based On Eleventy
 
 **Multiplicity** (abbreviated as 'm10y') is a simple starter pack based on [Eleventy static site generator](https://11ty.dev) that allows you to create RSS aggregator site.
 
@@ -8,7 +11,7 @@ Alongside the template code, it also contains a GitHub action required to keep t
 
 Want to see in in action? Check out [Blogworm.eu](https://blogworm.eu/).
 
-## Instant deploy
+### Instant deploy
 
 Netlify:
 
@@ -22,7 +25,7 @@ Render:
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/lwojcik/eleventy-template-multiplicity)
 
-## Features
+### Features
 
 - light / dark mode switcher + honoring color scheme preference
 - pagination
@@ -31,7 +34,7 @@ Render:
 - support for RSS and JSON feeds
 - custom avatar alongside each feed item
 
-## Setup and personalization
+### Setup and personalization
 
 1. Fork the repository.
 2. Configure the site according to your preferences - see [`siteConfig.js`](./content/_data/siteConfig.js) and template files.
@@ -47,15 +50,15 @@ Render:
    1. Create a build hook URL and save it as a GitHub secret in your repository - e.g. `NETLIFY_BUILD_HOOK_URL` or `VERCEL_BUILD_HOOK_URL`
 6. Done! Your aggregator is up and running.
 
-## Translation file
+### Translation file
 
 See [`phrases.js`](./content/_data/phrases.js) for the list of translatable static phrases.
 
-## Note for Netlify users
+### Note for Netlify users
 
 The aggregator uses [eleventy-fetch](https://www.11ty.dev/docs/plugins/fetch/) plugin for fetching and caching network requests. If you use Netlify, you can limit number of network requests with Netlify cache mechanism - [see Eleventy docs on how to enable it](https://www.11ty.dev/docs/plugins/fetch/#running-this-on-your-build-server).
 
-## Contributions
+### Contributions
 
 Contributions of the following kind are welcome:
 
