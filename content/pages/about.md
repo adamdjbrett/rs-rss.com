@@ -5,20 +5,31 @@ eleventyExcludeFromCollections: true
 permalink: /about/
 canonical: /about/
 ---
-Welcome to Orange 76. This site is a public digital RSS reader for religious studies. I love the open web and I truly miss Google Reader. As I have been compiling all the awesome Religious Studies sites I have been struggling to 1. find a way to share them with students 2. share them with others 3. learn what I am missing. After having built [Religious Studies CFP - relcfp.com](https://relcfp.com) for public use I decided to build a public RSS feed reader for religious studies. Thankfully [@lwojcik](https://github.com/lwojcik) had the perfect template for this project.
+Welcome to the [Religious Studies](https://rs-rss.com/) RSS feed reader. It is meant to keep busy geeks current on international and geeky news. We made this site because we miss Google Reader and the social reading of articles. this is also a light weight site deisgned for gray scale e-ink sites. 
+
+This site updates everyday at 6AM and 4PM
+
+## Flavors
+- [Blogs](https://rs-rss.com)
+- [Podcasts](https://podcasts.rs-rss.com)
+
+## Notes
+
+This site is mainted by [Adam DJ Brett](https://adamdjbrett.com) as a [#minicomp site](https://minicomp.github.io/wiki/). What is #minicomp?
+> Minicomp is a collaborative effort in embedding minimal computing principles (e.g. Minimal Maintenance, Minimal Dependencies, and Minimal Connectivity.
+
+*This site has no tracking or cookies.*
+
+## Tech Stack
+Site template is by [@lwojcik](https://github.com/lwojcik). The website is running on [11ty](https://11ty.dev) the best static site generator there is.
 
 ## Costs
-I'm sure you are wondering about the strange domain, well I wanted to start simple and cheap building this project to see if others are interested in it or if it is a just me project. The .XYZ domain name made famous by Alphabet (abc.xyz) has a domain class called [1.11b domains](https://gen.xyz/1111b) which are 6-9 digit domain names for $0.99 USD.
+- domain name
+- github (free)
+- netlify (free)
 
-The costs of this project are:
-Namecheap XYZ domain | $0.84
-Github for education | free
-Cloudflare DNS | free
-Netlify hosting | free
+## Public Domain
+[The Unlicense](https://unlicense.org/)
 
-## Made with
-* [Eleventy SSG](https://11ty.dev)
-* This site is based on [M10y an Eleventy-based RSS aggregator template](https://github.com/lwojcik/eleventy-template-m10y).
-
-## Maintained by
-[Adam DJ Brett](https://adamdjbrett.com)
+## Additions and removals
+email [hello@rs-rss.com](mailto:hello@rs-rss.com) or [info@adamdjbrett.com](mailto:info@adamdjbrett.com)
