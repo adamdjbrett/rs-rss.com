@@ -3,6 +3,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 6,16 * * *" # At minute 0 past hour 6 and 16.
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 
 jobs:
   DeploySite:
