@@ -1,5 +1,5 @@
 ---
-name: "Bartholomew's Notes: On Religion, Media, Culture, And Conspiracy Theories"
+name: "Bartholomew's Notes"
 url: https://barthsnotes.com/
 avatar: /images/sites/barthsnotes.jpg
 feed: https://barthsnotes.com/feed/
