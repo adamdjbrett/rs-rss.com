@@ -13,6 +13,12 @@ This site updates everyday at 6AM and 4PM
 - [Blogs](https://rs-rss.com)
 - [Podcasts](https://podcasts.rs-rss.com)
 
+## Important Religious Studies Organizations
+- [International Association for the History of Religions (IAHR)](http://www.iahr.dk/)
+- [American Academy of Religion (AAR)](https://www.aarweb.org/)
+- [Society of Biblical Literature (SBL)](http://www.sbl-site.org/)
+- [The Canadian Society for the Study of Religion (CSSR)](https://cssrscer.ca/)
+
 ## Notes
 
 This site is mainted by [Adam DJ Brett](https://adamdjbrett.com) as a [#minicomp site](https://minicomp.github.io/wiki/). What is #minicomp?
