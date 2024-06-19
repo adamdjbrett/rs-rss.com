@@ -1,6 +1,6 @@
 ---
-name: "affecognitive ~ religion, film, affect, academia"
+name: "affecognitive"
 url: https://affecognitive.wordpress.com/
 avatar: /images/sites/affecognitive.jpg
-feed: https://affecognitive.wordpress.com/feed
+feed: https://affecognitive.wordpress.com/feed/
 ---
