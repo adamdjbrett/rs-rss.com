@@ -1,9 +1,10 @@
-# Religious Stuides RSS Aggregator [RS-RSS.com](https://rs-rss.com
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58a6c39a-f478-4a62-813a-bae8dad5ea39/deploy-status)](https://app.netlify.com/sites/orange76xyz/deploys) [![Update site](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml/badge.svg)](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml)
+# Religious Stuides RSS Aggregator [RS-RSS.com](https://rs-rss.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/58a6c39a-f478-4a62-813a-bae8dad5ea39/deploy-status)](https://app.netlify.com/sites/rs-rss/deploys)
+[![Update site](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml/badge.svg)](https://github.com/adamdjbrett/rs-rss.com/actions/workflows/scheduled_build.yml)
 
-## Multiplicity - RSS Aggregator Starter Based On Eleventy
+## [Multiplicity - RSS Aggregator Starter Based On Eleventy](https://github.com/lwojcik/eleventy-template-multiplicity)
 
-**Multiplicity** (abbreviated as 'm10y') is a simple starter pack based on [Eleventy static site generator](https://11ty.dev) that allows you to create RSS aggregator site.
+[**Multiplicity** (abbreviated as 'm10y')](https://github.com/lwojcik/eleventy-template-multiplicity) by [@lwojcik](https://github.com/lwojcik/) is a simple starter pack based on [Eleventy static site generator](https://11ty.dev) that allows you to create RSS aggregator site.
 
 Alongside the template code, it also contains a GitHub action required to keep the site up to date.
 
