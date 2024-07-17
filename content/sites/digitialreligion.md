@@ -1,6 +1,6 @@
 ---
 name: Digital Religion
-url: https://digitalreligion.tamu.edu/
+url: https://www.digrel.com/
 avatar: /images/sites/dr.jpg
-feed: https://digitalreligion.tamu.edu/rss.xml
+feed: https://www.digrel.com/blog-feed.xml
 ---
