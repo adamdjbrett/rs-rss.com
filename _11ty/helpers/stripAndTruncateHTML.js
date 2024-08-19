@@ -1,16 +1,16 @@
-const stringStripHtml = import("string-strip-html");
+const { stripHtml } = require("string-strip-html");
 
-const ELLIPSIS = '…';
+const ELLIPSIS = "…";
 
-module.exports = async (input, maxLength) => {
-  const stripHtml = await stringStripHtml;
+module.exports = (input, maxLength) => {
+  if (!input) return "";
+
   const strippedString = stripHtml(input).result;
   const lastSpaceIndex = strippedString.lastIndexOf(" ", maxLength);
 
   if (strippedString.length <= maxLength) {
     return strippedString;
   }
-
   const truncatedString =
     lastSpaceIndex > 0
       ? strippedString.substring(0, lastSpaceIndex) + ELLIPSIS

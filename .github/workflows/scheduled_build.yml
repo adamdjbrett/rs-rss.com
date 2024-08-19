@@ -2,7 +2,7 @@ name: Update site
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6,16 * * *" # At minute 0 past hour 6 and 16.
+    - cron: "0 2 * * *" # Every day at 2am. Modify this as you see fit
 
 jobs:
   DeploySite:
@@ -11,8 +11,8 @@ jobs:
       - name: Deploy site
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
-          platform: netlify
-          netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
+          platform: vercel
+          vercel_deploy_hook_url: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
           always_deploy: true
           # Using Netlify? Configure this action as follows:
           # platform: netlify

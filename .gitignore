@@ -2,12 +2,12 @@
 dist/*
 _site/
 .cache
-.DS_Store
 
 ## Node.js
 lib-cov
 *.seed
 *.log
+*.csv
 *.dat
 *.out
 *.pid

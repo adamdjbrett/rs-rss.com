@@ -8,4 +8,4 @@ canonical: /sites/
 
 This is a list of RSS feeds added to the aggregator. 
 
-{% include "partials/bloglist.njk" %}
+{% include "partials/sitelist.njk" %}
