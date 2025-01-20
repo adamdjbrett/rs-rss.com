@@ -3,7 +3,7 @@ layout: base
 eleventyExcludeFromCollections: true
 pagination:
   data: articles
-  size: 10
+  size: 50
   alias: items
 permalink: "{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 canonical: /
