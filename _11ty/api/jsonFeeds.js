@@ -37,10 +37,11 @@ module.exports = async () => {
         articles,
       };
     } catch (error) {
-      logger.error(`[${site.file}] Error processing JSON feed: ${site.feed}`);
-      console.error(error);
+      logger.warn(`[${site.file}] Skipping invalid JSON feed: ${site.feed}`);
+      logger.verbose(error?.stack || String(error));
+      return null;
     }
   });
 
-  return getFulfilledValues(feedContents);
+  return (await getFulfilledValues(feedContents)).filter(Boolean);
 };

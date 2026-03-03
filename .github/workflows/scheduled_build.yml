@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 8 * * *" # Every day at 2am. Modify this as you see fit
 
+permissions:
+  contents: write
+
 jobs:
   DeploySite:
     runs-on: ubuntu-latest
@@ -18,3 +21,28 @@ jobs:
           # platform: netlify
           # netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
           # always_deploy: true
+
+      - name: Checkout repository
+        if: success()
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Log successful run in README
+        if: success()
+        run: |
+          stamp="$(date -u +'%Y-%m-%d %H:%M:%S')"
+          echo "Ran successfully ${stamp}" >> README.md
+
+      - name: Commit and push README update
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: log successful workflow run ${GITHUB_RUN_ID}"
+          git push

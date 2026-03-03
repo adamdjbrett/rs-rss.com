@@ -39,12 +39,13 @@ module.exports = async () => {
         articles,
       };
     } catch (error) {
-      logger.error(
-        `[${site.file}] Error processing RSS/Atom feed: ${site.feed}`
+      logger.warn(
+        `[${site.file}] Skipping invalid RSS/Atom feed: ${site.feed}`
       );
-      console.error(error);
+      logger.verbose(error?.stack || String(error));
+      return null;
     }
   });
 
-  return getFulfilledValues(feedContents);
+  return (await getFulfilledValues(feedContents)).filter(Boolean);
 };
