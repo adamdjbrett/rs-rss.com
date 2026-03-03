@@ -1,7 +1,7 @@
 ---
 name: "JCRT"
 url: https://jcrt.org/religioustheory/
-avatar: /images/sites/jcrt.ico
+avatar: /images/sites/jcrt.svg
 feed: https://jcrt.org/religioustheory/feed/
 # disable: true # skip processing this feed entirely
 # feedType: json # specify this ONLY if you want to use a JSON feed - defaults to RSS / Atom
